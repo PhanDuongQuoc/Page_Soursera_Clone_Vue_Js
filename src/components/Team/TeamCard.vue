@@ -1,5 +1,5 @@
 <template>
-    <div class="col-12 col-lg-4">
+    <div class="col-12 col-lg-4 mb-3">
         <div class="card border-0">
         <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
             <a href="#!">
@@ -31,7 +31,7 @@
         </div>
         </div>
     </div>
-    <div class="col-12 col-lg-4">
+    <div class="col-12 col-lg-4  mb-3">
         <div class="card border-0">
         <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
             <a href="#!">
@@ -63,7 +63,7 @@
         </div>
         </div>
     </div>
-    <div class="col-12 col-lg-4">
+    <div class="col-12 col-lg-4  mb-3">
         <div class="card border-0">
         <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
             <a href="#!">
@@ -96,7 +96,7 @@
         </div>
     </div>
 
-        <div class="col-12 col-lg-4">
+    <div class="col-12 col-lg-4 mb-3">
         <div class="card border-0">
         <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
             <a href="#!">
@@ -129,7 +129,7 @@
         </div>
     </div>
 
-        <div class="col-12 col-lg-4">
+    <div class="col-12 col-lg-4 mb-3">
         <div class="card border-0">
         <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
             <a href="#!">
@@ -162,7 +162,7 @@
         </div>
     </div>
 
-        <div class="col-12 col-lg-4">
+    <div class="col-12 col-lg-4 mb-3">
         <div class="card border-0">
         <figure class="card-img-top m-0 overflow-hidden bsb-overlay-hover">
             <a href="#!">
